@@ -10,3 +10,5 @@ The Tone Generator portion is represented via the midterm.h and midterm.cpp file
 The DE1-SoC board is connected to a computer via a USB to Mini USB connection and uses Screen to connect the board to the computer. 
 
 The project uses a user-friendly textual based user interface to navigate and select each part of the project. The Tone Generator receives tones to play via this textual UI as well as the game of Snakes and Ladders is played via command line prompt with a textual game board and textual game cues while accompanying sound is synced to the DE1-SoC board speaker. 
+
+Live Demo on Youtube: https://youtu.be/wsXXBG2WBQs  
